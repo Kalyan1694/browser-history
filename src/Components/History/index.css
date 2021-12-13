@@ -1,0 +1,41 @@
+.history {
+  padding-right: 150px;
+  padding-top: 50px;
+  padding-left: 150px;
+}
+
+.logo-part {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #3367d6;
+  padding: 20px;
+}
+
+.history-logo {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  min-width: 150px;
+}
+
+.search-part {
+  display: flex;
+  justify-content: flex-start;
+  min-width: 800px;
+  align-items: center;
+}
+
+.search-logo {
+  background-color: #2850a7;
+  padding: 10px;
+}
+
+.search-box {
+  background-color: #2850a7;
+  min-width: 400px;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  margin-left: 5px;
+}

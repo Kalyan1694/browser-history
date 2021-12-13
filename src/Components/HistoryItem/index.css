@@ -1,0 +1,29 @@
+.history-items {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.history-container {
+  display: flex;
+  justify-content: left;
+  min-width: 900px;
+  align-items: center;
+}
+
+.item {
+  display: flex;
+}
+
+.image-container {
+  margin-left: 25px;
+  margin-right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  width: 60%;
+}
